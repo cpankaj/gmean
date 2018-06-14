@@ -1,6 +1,6 @@
 {
   "name": "gmean",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Statistical utility to calculate geometric mean",
   "main": "index.js",
   "scripts": {
@@ -14,8 +14,11 @@
     "url": "git+https://github.com/cpankaj/gmean.git"
   },
   "keywords": [
+    "gmean",
     "geometric mean",
     "mean",
+    "average",
+    "stats",
     "statistics"
   ],
   "author": "Pankaj C",
