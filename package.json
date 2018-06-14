@@ -1,0 +1,32 @@
+{
+  "name": "gmean",
+  "version": "1.0.2",
+  "description": "Statistical utility to calculate geometric mean",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint index.js test",
+    "lint:fix": "eslint --fix index.js test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpankaj/gmean.git"
+  },
+  "keywords": [
+    "geometric mean",
+    "mean",
+    "statistics"
+  ],
+  "author": "Pankaj C",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cpankaj/gmean/issues"
+  },
+  "homepage": "https://github.com/cpankaj/gmean#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.19.1",
+    "eslint-config-google": "^0.9.1",
+    "mocha": "^5.2.0"
+  }
+}
