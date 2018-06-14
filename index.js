@@ -1,3 +1,5 @@
+'use strict';
+
 module.exports = function(arr) {
     // Argument check for array
     if (!Array.isArray(arr) || arr.length === 0) {
