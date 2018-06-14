@@ -1,4 +1,4 @@
-# keltnerchannel
+# gmean
 
 [![Build Status](https://travis-ci.org/cpankaj/gmean.svg?branch=master)](https://travis-ci.org/cpankaj/gmean)
 
