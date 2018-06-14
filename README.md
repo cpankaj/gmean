@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/cpankaj/gmean.svg?branch=master)](https://travis-ci.org/cpankaj/gmean)
 
-Geometric mean statistical utility.
+Statistical utility to calculate geometric mean.
 
 # Installation
 ```sh
@@ -20,7 +20,7 @@ const gmean = require('gmean');
 
 let arr = [2, 4, 4];
 
-let mean = gmean(arr); // 3.174802104
+let mean = gmean(arr); // 3.1748021039363983
 ```
 
 # License
