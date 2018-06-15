@@ -1,6 +1,6 @@
 {
   "name": "gmean",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Statistical utility to calculate geometric mean",
   "main": "index.js",
   "scripts": {
